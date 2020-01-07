@@ -1,0 +1,10 @@
+C:\Users\Kou\source\repos\YahooNews_RSS\YahooNews_RSS\bin\Debug\YahooNews_RSS.exe.config
+C:\Users\Kou\source\repos\YahooNews_RSS\YahooNews_RSS\bin\Debug\YahooNews_RSS.exe
+C:\Users\Kou\source\repos\YahooNews_RSS\YahooNews_RSS\bin\Debug\YahooNews_RSS.pdb
+C:\Users\Kou\source\repos\YahooNews_RSS\YahooNews_RSS\obj\Debug\YahooNews_RSS.csprojAssemblyReference.cache
+C:\Users\Kou\source\repos\YahooNews_RSS\YahooNews_RSS\obj\Debug\YahooNews_RSS.Form1.resources
+C:\Users\Kou\source\repos\YahooNews_RSS\YahooNews_RSS\obj\Debug\YahooNews_RSS.Properties.Resources.resources
+C:\Users\Kou\source\repos\YahooNews_RSS\YahooNews_RSS\obj\Debug\YahooNews_RSS.csproj.GenerateResource.cache
+C:\Users\Kou\source\repos\YahooNews_RSS\YahooNews_RSS\obj\Debug\YahooNews_RSS.csproj.CoreCompileInputs.cache
+C:\Users\Kou\source\repos\YahooNews_RSS\YahooNews_RSS\obj\Debug\YahooNews_RSS.exe
+C:\Users\Kou\source\repos\YahooNews_RSS\YahooNews_RSS\obj\Debug\YahooNews_RSS.pdb
