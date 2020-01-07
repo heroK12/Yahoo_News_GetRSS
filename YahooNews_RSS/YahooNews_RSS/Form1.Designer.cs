@@ -66,6 +66,7 @@
             // 
             this.NewsView.Location = new System.Drawing.Point(12, 78);
             this.NewsView.Name = "NewsView";
+            this.NewsView.ReadOnly = true;
             this.NewsView.Size = new System.Drawing.Size(776, 360);
             this.NewsView.TabIndex = 4;
             this.NewsView.Text = "";
